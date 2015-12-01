@@ -2,57 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="761e9a47-bd0d-40cf-8cbd-89b3eb435bb3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/lpengine.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tarea 2 LP/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lpengine.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tarea 2 LP.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/allclasses-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/allclasses-noframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/constant-values.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/deprecated-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/help-doc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/index-files/index-1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/index-files/index-10.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/index-files/index-11.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/index-files/index-12.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/index-files/index-2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/index-files/index-3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/index-files/index-4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/index-files/index-5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/index-files/index-6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/index-files/index-7.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/index-files/index-8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/index-files/index-9.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/lp/ejemplo/Main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/lp/ejemplo/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/lp/ejemplo/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/lp/ejemplo/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/lp/motor/Application.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/lp/motor/Context.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/lp/motor/Element.Type.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/lp/motor/Element.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/lp/motor/MouseHandler.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/lp/motor/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/lp/motor/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/lp/motor/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/overview-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/overview-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/overview-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/package-list" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/serialized-form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bundle/docs/stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Tarea 2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -633,12 +583,19 @@
       <created>1448983659020</created>
       <option name="number" value="Default" />
       <updated>1448983659020</updated>
-      <workItem from="1448983661547" duration="494000" />
+      <workItem from="1448983661547" duration="612000" />
     </task>
+    <task id="LOCAL-00001" summary="Inicializando repositorio">
+      <created>1448984362184</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1448984362184</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="494000" />
+    <option name="totallyTimeSpent" value="612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1346" height="635" extended-state="0" />
@@ -671,6 +628,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inicializando repositorio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicializando repositorio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
